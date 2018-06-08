@@ -1,0 +1,2 @@
+# szatpig.github.io
+blog
